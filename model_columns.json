@@ -1,0 +1,1 @@
+{"categorical_cols": ["from", "to", "flightType", "agency"], "numerical_cols": ["time", "distance", "day", "month", "year"]}

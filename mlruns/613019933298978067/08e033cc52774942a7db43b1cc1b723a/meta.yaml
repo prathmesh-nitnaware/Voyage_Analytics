@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/Voyage_Analytics/mlruns/613019933298978067/08e033cc52774942a7db43b1cc1b723a/artifacts
+end_time: 1768843066219
+entry_point_name: ''
+experiment_id: '613019933298978067'
+lifecycle_stage: active
+run_id: 08e033cc52774942a7db43b1cc1b723a
+run_name: welcoming-snipe-405
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768842303810
+status: 3
+tags: []
+user_id: USER

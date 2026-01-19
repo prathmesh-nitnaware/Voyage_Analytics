@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/Voyage_Analytics/mlruns/613019933298978067/88e449f4852142deba616bbf519de4c6/artifacts
+end_time: 1768841905934
+entry_point_name: ''
+experiment_id: '613019933298978067'
+lifecycle_stage: active
+run_id: 88e449f4852142deba616bbf519de4c6
+run_name: receptive-kite-100
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768841905702
+status: 4
+tags: []
+user_id: USER

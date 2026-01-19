@@ -1,0 +1,20 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: voyage-api-deployment
+spec:
+  replicas: 2  # Run 2 copies of the container for scalability
+  selector:
+    matchLabels:
+      app: voyage-api
+  template:
+    metadata:
+      labels:
+        app: voyage-api
+    spec:
+      containers:
+      - name: voyage-api
+        image: voyage-api:latest
+        imagePullPolicy: Never  # IMPORTANT: Use the local image we just built, don't try to download it
+        ports:
+        - containerPort: 5000
