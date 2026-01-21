@@ -43,7 +43,7 @@ def train_model():
     model.fit(X, y)
     
     joblib.dump(model, 'flight_price_model.pkl')
-    print("✅ Model retrained and saved successfully.")
+    print(" Model retrained and saved successfully.")
 
 with DAG(
     'voyage_retraining_pipeline',

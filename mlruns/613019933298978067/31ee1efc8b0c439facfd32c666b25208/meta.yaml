@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/Voyage_Analytics/mlruns/613019933298978067/31ee1efc8b0c439facfd32c666b25208/artifacts
+end_time: 1769012604089
+entry_point_name: ''
+experiment_id: '613019933298978067'
+lifecycle_stage: active
+run_id: 31ee1efc8b0c439facfd32c666b25208
+run_name: dashing-kite-944
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769011949623
+status: 3
+tags: []
+user_id: USER
