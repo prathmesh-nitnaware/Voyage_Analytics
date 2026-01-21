@@ -128,7 +128,7 @@ http://localhost:5000
 streamlit run app.py
 ```
 
-📊 Machine Learning & MLOps Concepts Demonstrated
+## 📊 Machine Learning & MLOps Concepts Demonstrated
 
 - Train/Test split and model evaluation  
 - Model serialization (.pkl)  
@@ -139,13 +139,13 @@ streamlit run app.py
 - Pipeline automation concepts  
 - Deployment-ready configuration  
 
-📌 Key Learnings
+## 📌 Key Learnings
 
 - ML models must be monitored and maintained after deployment  
 - Real-world ML systems require automation and versioning  
 - MLOps bridges the gap between ML development and production  
 - Travel domain data is dynamic and requires continuous model updates  
 
-📜 Conclusion
+## 📜 Conclusion
 
 Voyage Analytics demonstrates a production-oriented ML system, moving beyond notebooks to APIs, automation, and deployment. The project highlights how MLOps practices are essential for scalable and reliable machine learning systems, especially in dynamic domains like travel.
